@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Emmanuel Vivier Photography]]></title>
         <description><![CDATA[Emmanuel Vivier Photography]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/emmanuel-vivier-photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 14:44:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 10 Mar 2016 14:53:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/emmanuel-vivier-photography/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2be579a-c2be-4efb-be02-4205ff7cb886.jpg">]]></description>
-            <link>undefinedcorporate-photography/index.html</link>
+            <link>https://thegrid.ai/emmanuel-vivier-photography/corporate-photography/index.html</link>
             <guid isPermaLink="false">1b5bb175-d49b-42d6-864f-6e3fc0e3e59a</guid>
-            <pubDate>Thu, 10 Mar 2016 14:44:22 GMT</pubDate>
+            <pubDate>Thu, 10 Mar 2016 14:53:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
