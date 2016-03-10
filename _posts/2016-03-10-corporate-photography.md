@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Corporate Photography
-datePublished: '2016-03-10T14:44:22.876Z'
-dateModified: '2016-03-10T14:41:08.289Z'
+datePublished: '2016-03-10T14:53:42.420Z'
+dateModified: '2016-03-10T14:52:30.574Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-10-corporate-photography.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-10-corporate-photography.md
-published: true
 url: corporate-photography/index.html
 _type: Article
 
